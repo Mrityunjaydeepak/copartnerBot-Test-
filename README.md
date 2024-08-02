@@ -15,24 +15,19 @@ Before you begin, ensure you have the following:
 
    ```bash
    git clone https://github.com/Mrityunjaydeepak/copartnerBot-Test-.git
-   Navigate into the cloned repository:
+
+   
+Navigate into the cloned repository:
 
 
-
-cd copartnerBot-Test-
+      
+      cd copartnerBot-Test-
 
 2. Install Required Packages
-
-   
-
 Install the necessary dependencies:
 
-   
-
-npm install
+         npm install
 3. Run the Bot
 Start the bot by running the following command in your terminal:
 
-
-
-npm start
+         npm start
