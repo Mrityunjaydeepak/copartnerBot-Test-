@@ -17,22 +17,22 @@ Before you begin, ensure you have the following:
    git clone https://github.com/Mrityunjaydeepak/copartnerBot-Test-.git
    Navigate into the cloned repository:
 
-  ```bash
 
-cd telegram-bot-repo
+
+cd copartnerBot-Test-
 
 2. Install Required Packages
 
-    ```bash
+   
 
 Install the necessary dependencies:
 
-   ```bash
+   
 
 npm install
 3. Run the Bot
 Start the bot by running the following command in your terminal:
 
-    ```bash
+
 
 npm start
